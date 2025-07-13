@@ -1,14 +1,16 @@
-[
-  {
-    "id": 1,
-    "firstName": "Admin",
-    "lastName": "User",
-    "email": "admin@example.com",
-    "phone": "+994501234567",
-    "password": "Admin123!",
-    "role": "super_admin",
-    "createdAt": "2025-01-01T00:00:00.000Z",
-    "isActive": true,
-    "lastLogin": null
-  }
-] 
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Admin",
+      "lastName": "User",
+      "email": "admin@example.com",
+      "phone": "+994501234567",
+      "password": "Admin123!",
+      "role": "super_admin",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "isActive": true,
+      "lastLogin": null
+    }
+  ]
+}
